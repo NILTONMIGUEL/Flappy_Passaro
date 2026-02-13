@@ -4,3 +4,6 @@ game_restart();
 global.morreu = false;
 
 global.pontos = 0;
+
+//resetando meu level
+global.level = 1;
