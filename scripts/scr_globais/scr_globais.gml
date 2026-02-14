@@ -2,7 +2,7 @@
 	global.morreu = false;
 	global.pontos = 0;
 	global.level = 1;
-	global.coletaveis = 110;
+	global.coletaveis = 0;
 	global.sprite_player = spr_passaro01;
 	
 	global.destino = rm_game;

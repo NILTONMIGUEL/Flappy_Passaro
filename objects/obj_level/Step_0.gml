@@ -13,6 +13,9 @@ if(!global.morreu){
 			layer_hspeed("bg_arvores",-global.level);
 			layer_hspeed("bg_reflexo_agua",-global.level * 0.5);
 			layer_hspeed("bg_reflexo_arvores",-global.level);
+			
+			audio_stop_sound(snd_levelup);
+			audio_play_sound(snd_levelup,0,0);
 		}
 	}
 	
