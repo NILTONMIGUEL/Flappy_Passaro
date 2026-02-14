@@ -32,6 +32,7 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"botao","filters":[],"listItems":[],"multiselect":false,"name":"botao","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"botao","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"destino","filters":[],"listItems":[],"multiselect":false,"name":"destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_game","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"fonte","filters":[],"listItems":[],"multiselect":false,"name":"fonte","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"fnt_botoes","path":"fonts/fnt_botoes/fnt_botoes.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"fnt_botoes","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

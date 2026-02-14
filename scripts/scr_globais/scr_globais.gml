@@ -2,7 +2,8 @@
 	global.morreu = false;
 	global.pontos = 0;
 	global.level = 1;
-	global.coletaveis = 0;
+	global.coletaveis = 110;
+	global.sprite_player = spr_passaro01;
 	
 	global.destino = rm_game;
 	//criando a lista de pontos para subir de level
@@ -10,6 +11,9 @@
 
 	//variavel para controlar a transição
 	global.transicao = false;
+	
+	
+	global.itens_bloqueado = [false,true,true];
 #endregion
 
 
